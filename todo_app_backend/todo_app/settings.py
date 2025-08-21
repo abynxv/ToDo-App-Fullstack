@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-gl1$#m$96-(tu^qc+70p2xa@3f$rjt0sg-5h%bsmsd6^w12&eq
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ["localhost", "127.0.0.1", "todo-app-fullstack-nrfk.onrender.com"]
+ALLOWED_HOSTS = ["localhost", "127.0.0.1","todo-app-fullstack-backend.onrender.com"]
 
 
 # Application definition
@@ -125,6 +125,12 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
+
+# For Local
+# CORS_ALLOWED_ORIGINS = [
+#     "http://localhost:5173",
+# ]
+
 CORS_ALLOWED_ORIGINS = [
-    "http://localhost:5173",
+    "https://todo-app-fullstack-1-z9te.onrender.com",
 ]
