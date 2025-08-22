@@ -94,3 +94,9 @@ The frontend will be available at `http://localhost:5173` (Vite default port)
 1. Start both backend and frontend servers
 2. Open your browser and go to `http://localhost:5173`
 3. Add, edit, complete, or delete tasks as needed
+
+## Screenshots
+<img width="1857" height="985" alt="image" src="https://github.com/user-attachments/assets/483c4486-18fc-473d-8380-3e4de344388e" />
+<img width="1857" height="985" alt="image" src="https://github.com/user-attachments/assets/e59e2272-7951-4d7f-b836-e23c17d3e7e9" />
+
+
