@@ -16,7 +16,7 @@ function App() {
 
   // API Base URL - Update this to your Django backend URL
   // const API_BASE_URL = 'http://localhost:8000/api'; // Change this to your backend URL
-  const API_BASE_URL = 'https://todo-app-fullstack-backend.onrender.com/api';
+  const API_BASE_URL = 'https://todo-app-fullstack-nrfk.onrender.com/api';
 
   // Fetch tasks from API
   const fetchTasks = async () => {
