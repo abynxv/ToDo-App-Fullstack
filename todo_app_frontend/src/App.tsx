@@ -160,7 +160,7 @@ function App() {
             <CheckSquare className="w-6 h-6 sm:w-8 sm:h-8 text-blue-600 mr-3" />
             <div>
               <h1 className="text-xl sm:text-2xl font-bold text-gray-900">Task Manager</h1>
-              <p className="text-xs sm:text-sm text-gray-600">Professional Dashboard</p>
+              <p className="text-xs sm:text-sm text-gray-600">Dashboard</p>
             </div>
           </div>
           
